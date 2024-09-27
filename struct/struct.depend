@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668250235 source:c:\users\user\documents\code\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668250296 source:c:\users\user\documents\code\struct\array.c
+	<stdio.h>
+
+1668619723 source:c:\users\user\documents\code\c\struct\array.c
+	<stdio.h>
+
+1668250235 source:c:\users\user\documents\code\c\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667033241 source:c:\users\user\desktop\ponters\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668101767 source:c:\users\user\documents\code\ponters\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668102571 source:c:\users\user\documents\code\ponters\struct.c
+	<stdio.h>
+	<stdlib.h>
+

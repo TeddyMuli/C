@@ -1,0 +1,7 @@
+Patients of Ushindi Hospital
+Name: g g 
+ Age: 2018 
+ Height: 0 
+ Weight: 0.000000
+ Symptoms: g
+ Prescription: g

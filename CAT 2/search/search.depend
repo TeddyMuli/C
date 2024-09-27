@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667708437 source:c:\users\user\desktop\search\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667713627 source:c:\users\user\desktop\search\search string.c
+	<stdio.h>
+
